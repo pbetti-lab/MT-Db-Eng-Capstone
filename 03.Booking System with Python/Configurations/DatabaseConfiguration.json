@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "port": "3306",
+    "userName": "root",
+    "password": "Qwe-9-rty",
+    "database": "LittleLemonDB"
+}
